@@ -1,27 +1,42 @@
-# Hi, I'm Aman Chadha
+<h1 align="center">Hi 👋, I'm Aman Chadha</h1>
 
-Backend Engineer with 4+ years of experience building scalable APIs and high-concurrency systems.
+<h3 align="center">
+Backend Engineer • Open Source Contributor • AI Enthusiast
+</h3>
 
-## Current Work
+<p align="center">
+Building scalable APIs, event-driven systems, and AI-powered tools.
+</p>
 
+---
+
+## 🚀 About Me
+
+- Backend Engineer with 4+ years of experience
 - Developer at Supreme Court Bar Association of India
-- Building Memory Extraction Models using Qwen + LoRA
-- Contributing to Open Source
+- Open Source Contributor (jQuery, Sugar Labs)
+- Working on Memory Extraction Models using Qwen + LoRA
+- Interested in Distributed Systems, AI, and Developer Tools
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-- Node.js
-- Python
-- MySQL
-- MongoDB
-- Docker
-- Prometheus
-- Grafana
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 
-## Open Source
+## 🌟 Open Source
 
-- jQuery #5523
+- jQuery PR #5523(solved a bug)
 
-## Links
+## 📊 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=ac-mmi&show_icons=true&theme=tokyonight)
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ac-mmi&layout=compact&theme=tokyonight)
+
+## 📫 Connect
 
 - Email: aman.chadha.mmi@gmail.com
