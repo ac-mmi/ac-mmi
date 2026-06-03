@@ -21,9 +21,7 @@ Backend Engineer with 4+ years of experience building scalable APIs and high-con
 ## Open Source
 
 - jQuery #5523
-- Sugar Labs - AI Translation Project
 
 ## Links
 
-- LinkedIn: <your-linkedin>
 - Email: aman.chadha.mmi@gmail.com
