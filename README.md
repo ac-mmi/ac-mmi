@@ -31,11 +31,13 @@ Building scalable APIs, event-driven systems, and AI-powered tools.
 
 - jQuery PR #5523(solved a bug)
 
-## 📊 GitHub Stats
+## 💬 Community
 
-![stats](https://github-readme-stats.vercel.app/api?username=ac-mmi&show_icons=true&theme=tokyonight)
+* Stack Overflow: 2,506+ reputation
+* 71 answers contributed
+* 101k+ developers reached through published answers
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ac-mmi&layout=compact&theme=tokyonight)
+Profile: https://stackoverflow.com/users/14225299/aman-chadha
 
 ## 📫 Connect
 
