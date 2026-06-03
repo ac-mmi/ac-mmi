@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Aman Chadha
 
-<!--
-**ac-mmi/ac-mmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer with 4+ years of experience building scalable APIs and high-concurrency systems.
 
-Here are some ideas to get you started:
+## Current Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Developer at Supreme Court Bar Association of India
+- Building Memory Extraction Models using Qwen + LoRA
+- Contributing to Open Source
+
+## Tech Stack
+
+- Node.js
+- Python
+- MySQL
+- MongoDB
+- Docker
+- Prometheus
+- Grafana
+
+## Open Source
+
+- jQuery #5523
+- Sugar Labs - AI Translation Project
+
+## Links
+
+- LinkedIn: <your-linkedin>
+- Email: aman.chadha.mmi@gmail.com
