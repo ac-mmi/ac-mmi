@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Aman Chadha</h1>
+<h1 align="left">Hi 👋, I'm Aman Chadha</h1>
 
-<h3 align="center">
+<h3 align="left">
 Backend Engineer • Open Source Contributor • AI Enthusiast
 </h3>
 
-<p align="center">
+<p align="left">
 Building scalable APIs, event-driven systems, and AI-powered tools.
 </p>
 
