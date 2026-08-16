@@ -12,7 +12,7 @@ Building scalable APIs, event-driven systems, and AI-powered tools.
 
 ## 🚀 About Me
 
-- Backend Engineer with 4+ years of experience
+- Full Stack Engineer 
 - Developer at Supreme Court Bar Association of India
 - Open Source Contributor (jQuery, Sugar Labs)
 - Working on Memory Extraction Models using Qwen + LoRA
