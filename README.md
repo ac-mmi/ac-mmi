@@ -12,7 +12,7 @@ Building scalable APIs, event-driven systems, and AI-powered tools.
 
 ## 🚀 About Me
 
-- Full Stack Engineer 
+- Backend Software Engineer
 - Developer at Supreme Court Bar Association of India
 - Open Source Contributor (llama.cpp,jQuery, Sugar Labs)
 - Working on Memory Extraction Models using Qwen + LoRA
