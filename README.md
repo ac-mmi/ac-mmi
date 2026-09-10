@@ -14,7 +14,7 @@ Building scalable APIs, event-driven systems, and AI-powered tools.
 
 - Full Stack Engineer 
 - Developer at Supreme Court Bar Association of India
-- Open Source Contributor (jQuery, Sugar Labs)
+- Open Source Contributor (llama.cpp,jQuery, Sugar Labs)
 - Working on Memory Extraction Models using Qwen + LoRA
 - Interested in Distributed Systems, AI, and Developer Tools
 
@@ -29,6 +29,7 @@ Building scalable APIs, event-driven systems, and AI-powered tools.
 
 ## 🌟 Open Source
 
+- llama.cpp PR #27891
 - jQuery PR #5523(solved a bug)
 
 ## 💬 Community
