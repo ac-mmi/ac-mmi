@@ -31,7 +31,7 @@ Building scalable APIs, event-driven systems, and AI-powered tools.
 
 - llama.cpp PR #27891
 - Node.js PR #65963
-- jQuery PR #5523(solved a bug)
+- jQuery PR #5523
 
 ## 💬 Community
 
