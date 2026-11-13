@@ -14,7 +14,7 @@ Building scalable APIs, event-driven systems, and AI-powered tools.
 
 - Backend Software Engineer
 - Developer at Supreme Court Bar Association of India
-- Open Source Contributor (llama.cpp,jQuery, Sugar Labs)
+- Open Source Contributor (llama.cpp,jQuery, NodeJS, Sugar Labs)
 - Working on Memory Extraction Models using Qwen + LoRA
 - Interested in Distributed Systems, AI, and Developer Tools
 
@@ -27,11 +27,6 @@ Building scalable APIs, event-driven systems, and AI-powered tools.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 
-## 🌟 Open Source
-
-- llama.cpp PR #27891
-- Node.js PR #65963
-- jQuery PR #5523
 
 ## 💬 Community
 
